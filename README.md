@@ -1,4 +1,4 @@
-# game-project
+# Game Project
 make some games by using javascript just for fun!
 
 # How can you get ideas?
